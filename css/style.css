@@ -84,7 +84,7 @@ a {
 }
 #hero-img {
     max-width: 50%;
-    height: fit-content;
+    height: auto;
 }
 .info-section{
     color:#1F2937;
@@ -102,7 +102,7 @@ a {
     justify-content: space-around;
     padding: 0 50px;
     margin-bottom: 120px;
-
+    gap: 24px;
 }
 .info-img, .info-img-text{
     max-width: 160px;
