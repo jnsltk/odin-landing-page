@@ -177,3 +177,12 @@ q {
     color: #E5E7EB;
     font-weight: 300;
 }
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 18px;
+    font-weight: 300;
+    text-align: center;
+    width: 100%;
+    padding: 40px 0;
+}
