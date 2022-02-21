@@ -85,12 +85,10 @@ a {
     max-width: 50%;
     height: fit-content;
 }
-.content{
-    
+.info-section{
     color:#1F2937;
     text-align: center;
     width: 70%;
-    
 }
 .info-title {
     font-size: 36px;
@@ -116,4 +114,29 @@ a {
 .info-img-text {
     font-size: 18px;
     font-weight: 300;
+}
+.quote-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #E5E7EB;
+}
+.quote {
+    max-width: 53%;
+    margin: 150px 0 120px;
+
+}
+q {
+    display: block;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+    
+}
+#source {
+    font-size: 24px;
+    font-weight: 900;
+    text-align: right;
 }
